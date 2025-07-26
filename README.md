@@ -1,2 +1,2 @@
 # Hello-World
-This is my practising github repository
+This is my practise github repository
